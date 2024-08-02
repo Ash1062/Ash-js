@@ -7,5 +7,6 @@ const krishna = ["Madhu", "Mangal", "Balram"];
 const shiva = ["Nandi", "Ganesh", "Uma"];
 const god = krishna.concat(shiva);
 console.log(god);
+console.log(Array.isArray("ASH"));
 
 

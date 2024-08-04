@@ -5,6 +5,7 @@ const obj = {
     name: "Ashish",
     age: 18
 }
+
 console.log(obj);
 const a = { air: 1, b: 2};
 const b = { b: 3, d: 4};

@@ -10,3 +10,5 @@ console.log(god);
 console.log(Array.isArray("ASH"));
 
 
+
+
